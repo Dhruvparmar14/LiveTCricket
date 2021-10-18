@@ -1,6 +1,9 @@
 {
   "livetv":"no",
   "badMatch":"us,ca,gb,nl,in,bd,pk,au",
+  "admobNewInterAdUnit":"ca-app-pub-9053657480798500/2993642739",
+  "admobInterstitialAdUnit":"",
+  "admobBannerAdUnit":"",
   "admobNewBannerAdUnit":"ca-app-pub-9053657480798500/4357505925",
   "lctschedule": [ 
     {
