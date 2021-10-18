@@ -1,23 +1,24 @@
 {
-  "livetv":"yes",
+  "livetv":"no",
+  "badMatch":"us,ca,gb,nl,in,bd,pk,au",
   "lctschedule": [ 
     {
-      "team1": "BAN",
-      "team2": "AUS",
-      "match": "BAN vs AUS, T20s",
-      "date": "Aug 03, 2021"
+      "team1": "AUS",
+      "team2": "SA",
+      "match": "AUS vs SA, T20 WC",
+      "date": "Oct 23, 2021"
+    },
+    {
+      "team1": "ENG",
+      "team2": "WI",
+      "match": "ENG vs WI, T20 WC",
+      "date": "Oct 23, 2021"
     },
     {
       "team1": "IND",
-      "team2": "ENG",
-      "match": "IND vs ENG, Tests",
-      "date": "Aug 04, 2021"
-    },
-    {
-      "team1": "PAK",
-      "team2": "WI",
-      "match": "PAK vs WI, Tests",
-      "date": "Aug 12, 2021"
+      "team2": "PAK",
+      "match": "IND vs PAK, T20 WC",
+      "date": "Oct 24, 2021"
     },
     {
       "team1": "ad",
@@ -26,50 +27,62 @@
       "date": "ad"
     },
     {
-      "team1": "BAN",
-      "team2": "NZ",
-      "match": "BAN vs NZ, T20s",
-      "date": "Sep 01, 2021"
+      "team1": "AFG",
+      "team2": "DEF",
+      "match": "AFG vs TBD, T20 WC",
+      "date": "Oct 25, 2021"
     },
     {
-      "team1": "SL",
-      "team2": "SA",
-      "match": "SL vs SA, ODIs",
-      "date": "Sep 03, 2021"
-    },
-    {
-      "team1": "SL",
-      "team2": "SA",
-      "match": "SL vs SA, T20s",
-      "date": "Sep 10, 2021"
+      "team1": "SA",
+      "team2": "WI",
+      "match": "SA vs WI, T20 WC",
+      "date": "Oct 26, 2021"
     },
     {
       "team1": "PAK",
       "team2": "NZ",
-      "match": "PAK vs NZ, ODIs",
-      "date": "Sep 17, 2021"
+      "match": "PAK vs NZ, T20 WC",
+      "date": "Oct 26, 2021"
     },
     {
-      "team1": "PAK",
-      "team2": "NZ",
-      "match": "PAK vs NZ, T20s",
-      "date": "Sep 25, 2021"
+      "team1": "ENG",
+      "team2": "DEF",
+      "match": "ENG vs TBD, T20 WC",
+      "date": "Oct 27, 2021"
     },
     {
-      "team1": "PAK",
-      "team2": "ENG",
-      "match": "PAK vs ENG, T20s",
-      "date": "Oct 14, 2021"
+      "team1": "DEF",
+      "team2": "DEF",
+      "match": "TBD vs TBD, T20 WC",
+      "date": "Oct 27, 2021"
+    },
+    {
+      "team1": "AUS",
+      "team2": "DEF",
+      "match": "AUS vs TBD, T20 WC",
+      "date": "Oct 28, 2021"
     }
   ],
   "lctchannels":[
-  	{
-  		  "name": "PTV Sports (National T20)",
-  		  "link": "http://31.220.41.86:8081/live/ptvsports.stream/playlist.m3u8"
-  	},
     {
-          "name": "Ten Sports (PAK vs NZ)",
-          "link": "http://45.58.148.154/ten-123456/index.m3u8"
+        "name": "PTV Sports (T20 WC)",
+        "link": ""
+    },
+    {
+         "name": "T Sports (T20 WC)",
+         "link": ""
+    },
+    {
+         "name": "Sky Sports (T20 WC)",
+         "link": ""
+    },
+    {
+         "name": "Star Sports (T20 WC)",
+         "link": ""
+    },
+    {
+         "name": "Willow Cricket (T20 WC)",
+         "link": ""
     }
   ]
 }
