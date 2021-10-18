@@ -1,5 +1,5 @@
 {
-  "livetv":"no",
+  "livetv":"yes",
   "badMatch":"us,ca,gb,nl,in,bd,pk,au",
   "lctschedule": [ 
     {
