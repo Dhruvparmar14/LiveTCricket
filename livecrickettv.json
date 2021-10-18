@@ -1,10 +1,6 @@
 {
   "livetv":"no",
   "badMatch":"us,ca,gb,nl,in,bd,pk,au",
-  "admobNewInterAdUnit":"ca-app-pub-3940256099942544/1033173712",
-  "admobInterstitialAdUnit":"",
-  "admobBannerAdUnit":"",
-  "admobNewBannerAdUnit":"ca-app-pub-3940256099942544/6300978111",
   "lctschedule": [ 
     {
       "team1": "AUS",
